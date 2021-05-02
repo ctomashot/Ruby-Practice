@@ -81,3 +81,12 @@ puts fibonacci( 5 )
 # output the number in words 
 # ie: 384765 output three hundred eighty four thousand seven hundred sixty five
 
+
+def number(Number):
+    if 0 <= Number <= 19:
+        return num2words1[Number]
+    elif 20 <= Number <= 99:
+        tens, remainder = divmod(Number, 10)
+        return num2words2[tens - 2] + '-' + num2words1[remainder] if remainder else num2words2[tens - 2]
+    else:
+        print('Number out of implemented
