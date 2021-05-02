@@ -66,12 +66,12 @@ end
  
 frequency(input)
  
-# 4. given an index N find the value at that index in the fibonacci sequence # recursively at index N 
-# fibonacci sequence = 1,1,2,3,5,8,13,21.. 
-# indices = 1,2,3,4,5,6,7, 8 
-# example: 6, output 8
+4. given an index N find the value at that index in the fibonacci sequence # recursively at index N 
+fibonacci sequence = 1,1,2,3,5,8,13,21.. 
+indices = 1,2,3,4,5,6,7, 8 
+example: 6, output 8
  
 # 5. given a number N where 1 billion > N > 0 whole numbers only 
 # output the number in words 
-# ie: 384765 output three hundred eighty four thousand seven hundred sixty five
+ ie: 384765 output three hundred eighty four thousand seven hundred sixty five
 
