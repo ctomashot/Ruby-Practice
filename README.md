@@ -1,2 +1,2 @@
 # Technical-Interview-Practice
-Practice questions based on a mock technical interview
+Ruby practice questions based on a mock technical interview
