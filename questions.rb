@@ -95,3 +95,5 @@ def number(Number):
         return num2words2[tens - 2] + '-' + num2words1[remainder] if remainder else num2words2[tens - 2]
     else:
         print('Number out of implemented
+        
+# 6.
