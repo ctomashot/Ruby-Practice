@@ -8,7 +8,7 @@ def reverse(string)
   a.reverse!
   puts a.join(" ")
 end
-reverse(string
+reverse(string)
  
 # 2. given a word , output true if it's a palindrome and false if it is not 
 # NOTE: you cannot use the reverse method 
