@@ -2,4 +2,4 @@
 Ruby practice questions from various sources
 
 
-James (Cole) Tomashot
+Cole Tomashot
