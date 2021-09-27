@@ -1,5 +1,5 @@
 # Ruby-Rails-Practice
-Ruby practice questions based on a mock technical interview
+Ruby practice questions from various sources
 
 
 James (Cole) Tomashot
