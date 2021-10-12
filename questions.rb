@@ -68,7 +68,6 @@ frequency(input)
 #fibonacci sequence = 1,1,2,3,5,8,13,21.. 
 #indices = 1,2,3,4,5,6,7, 8 
 #example: 6, output 8
-
 def fibonacci( n )
   return  n  if ( 0..1 ).include? n
   ( fibonacci( n - 1 ) + fibonacci( n - 2 ) )
