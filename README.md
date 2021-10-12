@@ -1,5 +1,4 @@
 # Ruby-Rails-Practice
-Ruby practice questions from various sources
-
+Ruby practice questions
 
 Cole Tomashot
