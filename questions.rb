@@ -13,7 +13,6 @@ reverse(string)
 # NOTE: you cannot use the reverse method 
 # hannah, racecar, tacocat are palindromes so output true 
 # asdf output(print) false
- 
 word = "zaaaaa"
 def pali(word)
    array = word.split("")
