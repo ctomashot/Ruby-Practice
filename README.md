@@ -1,2 +1,2 @@
 # Ruby-Rails-Practice
-Ruby practice questions
+Ruby practice
