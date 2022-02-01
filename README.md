@@ -1,3 +1,3 @@
 # Ruby-Rails-Practice
 
-Ruby code practice
+Ruby practice
